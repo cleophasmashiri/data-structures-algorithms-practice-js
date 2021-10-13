@@ -1,4 +1,4 @@
-# data-structures-algorithms-practice-js
+# Data-Structures-Algorithms-Practice in javascript
 
 Data-Structures-Algorithms practice with vanilla javascript for building coding muscles. 
 
